@@ -12,3 +12,9 @@ Some things we cover in Python class are:
 * Conditional statements
 * Input/Output
 
+Some other things we learn in CTI 110 are:
+* How to use GitHub
+* How to use Visual Studio Code
+* How to use Markdown
+
+
